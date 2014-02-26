@@ -1,0 +1,13 @@
+de.mcp.cutcad.algorithm
+de.mcp.cutcad.application
+de.mcp.cutcad.application.tools.drawing
+de.mcp.cutcad.application.tools.fileManagement
+de.mcp.cutcad.application.tools.objectImport
+de.mcp.cutcad.application.tools.objectManipulation
+de.mcp.cutcad.model
+de.mcp.cutcad.model.primitives
+de.mcp.cutcad.model.shapes
+de.mcp.cutcad.printdialog
+de.mcp.cutcad.printdialog.lasercutter
+de.mcp.cutcad.printdialog.selectpath
+de.mcp.cutcad.view
